@@ -6,7 +6,7 @@ const synth = window.speechSynthesis;
 let recognition;
 
 // Your Gemini API key (do NOT share publicly for real use)
-const API_KEY = "AIzaSyDRBsA1iFrgrtF_QNRSkGsJ468ZmDfmPJ4";
+const API_KEY = "AIzaSyBElkc8okIhUl4Uva-zklB1VmssfJHQzwc";
 
 function addMessage(text, cls) {
   const div = document.createElement("div");
